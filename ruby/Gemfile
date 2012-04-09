@@ -1,0 +1,7 @@
+source :rubygems
+source :rubyforge
+
+gem "stomp"
+gem "rake"
+gem "eventmachine"
+gem "em-websocket"
